@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/6765765a-ab09-48ee-b0d0-cafbd6d369a1)
+![Screenshot 2024-09-02 160714](https://github.com/user-attachments/assets/e47d59d9-ee60-4cc8-8e60-d039fbbb66ee)
 
 
  
@@ -63,8 +63,9 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![Screenshot 2024-09-02 161444](https://github.com/user-attachments/assets/823010f8-0820-43c7-ac59-15dde52ab3fb)
 
-![image](https://github.com/user-attachments/assets/9feb4130-8bdb-43eb-8456-161b9b62abe8)
+
 
 
 
@@ -77,8 +78,9 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/ce016fc4-abcf-43e4-a9d6-2144fcd457e0)
 
+
+![Screenshot 2024-09-02 162654](https://github.com/user-attachments/assets/1f1d4d6d-dd46-41d6-8e3a-8f0fb31bc6da)
 
 
  
@@ -92,7 +94,8 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![image](https://github.com/user-attachments/assets/42b5d645-b98f-416d-b839-6c7e6f10ee50)
+![image](https://github.com/user-attachments/assets/5589a0d9-355b-442f-8247-f9055c0d4431)
+
 
 
 For Transient Analysis Settings and Output
@@ -102,7 +105,9 @@ For Transient Analysis Settings and Output
 
 
 
-![image](https://github.com/user-attachments/assets/1f6c11de-7a81-4cac-b7e2-f4df0c409a2a)
+
+![image](https://github.com/user-attachments/assets/a87c4351-f63f-4a54-87fe-4faab1f42709)
+
 
 
  For DC Analysis Settings and Output
@@ -111,7 +116,8 @@ For Transient Analysis Settings and Output
 
 
 
-![image](https://github.com/user-attachments/assets/2a7d0a9f-415a-4326-83c1-a7a52eac0c16)
+![image](https://github.com/user-attachments/assets/0eb8e537-0e11-488b-9609-0916ceacdfd0)
+
 
 
  
